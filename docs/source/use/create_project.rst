@@ -25,3 +25,4 @@ The order of the scenes can be adjusted with the priority; the smaller the prior
        <source src="../_static/create_project.mp4">
        Your browser doesn't support embedded videos.
    </video>
+
